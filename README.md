@@ -21,7 +21,7 @@ TranSec OS是一个基于Ubuntu 18.04的车联网渗透测试发行版系统，�
 | gattool | BLE连接工具 |
 | binwalk | 固件解包与分析工具 |
 | IDA Free | 专业的二进制分析工具 |
-| Shambles | 专业的二进制分析与漏洞扫描工具 |
+| Shambles | 专业的二进制分析与漏洞扫描工具，含自动解包与模拟 |
 | Ghidra | 开源二进制分析工具 |
 | Jeb | 安卓逆向分析工具 |
 | Jadx-Gui | 开源安卓逆向分析工具 |
