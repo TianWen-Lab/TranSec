@@ -40,7 +40,7 @@ TranSec OS是一个基于Ubuntu 18.04的车联网渗透测试发行版系统，�
 | Firmware Analysis Toolkit | 开源的固件分析工具 |
 | frp | 内网穿透工具 |
 | MobSF | 安卓自动化静态分析工具 |
-| Burpsuitee | Web测试工具 |
+| Burpsuite | Web测试工具 |
 
 # 下载
 - GitHub：https://github.com/TianWen-Lab/TranSec
