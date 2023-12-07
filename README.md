@@ -44,7 +44,7 @@ TranSec OS是一个基于Ubuntu 18.04的车联网渗透测试发行版系统，�
 
 # 下载
 - GitHub：[Releases](https://github.com/TianWen-Lab/TranSec/releases)
-- 百度网盘：链接:[https://pan.baidu.com/s/1jWFxiawgiC57gLCYiSvnyA](https://pan.baidu.com/s/1jWFxiawgiC57gLCYiSvnyA) 提取码:r4x7
+- 百度网盘：[https://pan.baidu.com/s/1jWFxiawgiC57gLCYiSvnyA](https://pan.baidu.com/s/1jWFxiawgiC57gLCYiSvnyA) 提取码:r4x7
 
 # 安装说明
 
