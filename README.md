@@ -52,7 +52,7 @@ Below are some of the tools listed, and more tools can be explored by yourself.
 
 This system provides ISO image installation and OVA image import installation methods. It is recommended to use OVA to import virtual machines for simpler and more convenient operations. Due to the large size of the system, importing or installing requires a certain amount of time, which depends on the performance of the disk.
 
-After successful import or installation, boot up and use `iov/root` to log in. After successful login, the user experience plan will be displayed, and you can choose to agree or refuse. Once confirmed, you can start using it.
+After successful import or installation, boot up and use `iov/root` to login. After successful login, the user experience plan will be displayed, and you can choose to agree or refuse. Once confirmed, you can start using it.
 
 ![image](https://github.com/TianWen-Lab/TranSec/assets/45167857/8b3dacaf-7668-4be8-baf4-8c4ebdc3fcaa)
 
@@ -66,7 +66,7 @@ When installing using ISO images, **it is recommended to configure 50GB of disk 
 
 ![image](https://github.com/TianWen-Lab/TranSec/assets/45167857/f51c53c6-bcb1-4d1f-8544-ca87d8f82ac2)
 
-Enter the password `iov/root` to log in to the installation interface:
+Enter the password `iov/root` to login to the installation interface:
 
 ![image](https://github.com/TianWen-Lab/TranSec/assets/45167857/0c76f57a-528f-4226-a744-fca508b2ed7b)
 
