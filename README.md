@@ -82,7 +82,7 @@ At this point, a `/dev/sda?` will appear, Select `/dev/sda?`, Click on the arrow
 
 ![image](https://github.com/TianWen-Lab/TranSec/assets/45167857/44e08672-3419-407b-9aaf-6c81442d6213)
 
-At this point, `/dev/sda`  becomes '/dev/sda1 '. Select this partition, select the mounted directory (/) and partition format (ext4) from the drop-down menu on the right, and click the arrow again to complete the partition:
+At this point, `/dev/sda`  becomes `/dev/sda1`. Select this partition, select the mounted directory (/) and partition format (ext4) from the drop-down menu on the right, and click the arrow again to complete the partition:
 
 ![image](https://github.com/TianWen-Lab/TranSec/assets/45167857/e2c4dd07-ba00-43a3-afe3-c3a1fbfef60f)
 
